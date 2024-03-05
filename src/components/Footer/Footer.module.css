@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+    background-color: var(--primary);
+    height: 137px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.span {
+    color: var(--off-white);
+
+}

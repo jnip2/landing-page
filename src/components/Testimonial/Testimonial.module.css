@@ -1,0 +1,17 @@
+.container {
+    width: 386px;
+    height: 191px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.headerText {
+    font-size: 40px;
+    color: var(--off-white);
+}
+
+.userText {
+    font-size: 24px;
+    color: var(--off-white);
+}
